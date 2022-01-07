@@ -1,2 +1,2 @@
 # Esoftdz
-This is test "using "Github"
+قمت بإضافة سكريبت يقوم بإنشاء جدول خاص بنقاط الطلبة
